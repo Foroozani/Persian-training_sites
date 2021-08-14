@@ -23,3 +23,6 @@ My personal repo. to collect some good training websites
 
 [الگوریتم های داده های حجیم](https://maktabkhooneh.org/course/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AD%D8%AC%DB%8C%D9%85-mk218/)
 
+
+[Jira](https://www.youtube.com/watch?v=8-vExAftUJU&list=PLHB8UzKObBwh8PGBVAb1TGvEtcNErlHj_)
+
